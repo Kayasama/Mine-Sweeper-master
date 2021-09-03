@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/CMake/share/cmake-3.20/Modules/CMakeCInformation.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeCXXInformation.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeGenericSystem.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeRCInformation.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake
+D:/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake
+D:/CMake/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/CMake/share/cmake-3.20/Modules/Compiler/MSVC-C.cmake
+D:/CMake/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake
+D:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-C.cmake
+D:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake
+D:/CMake/share/cmake-3.20/Modules/Platform/Windows.cmake
+D:/CMake/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/3.20.3/CMakeCCompiler.cmake
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/3.20.3/CMakeCXXCompiler.cmake
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/3.20.3/CMakeRCCompiler.cmake
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/3.20.3/CMakeSystem.cmake
+D:/MyLittleThought/Mine-Sweeper-master/CMakeLists.txt

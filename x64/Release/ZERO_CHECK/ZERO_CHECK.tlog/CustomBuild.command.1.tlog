@@ -1,0 +1,10 @@
+^D:\MYLITTLETHOUGHT\MINE-SWEEPER-MASTER\CMAKEFILES\D44DA1B4234F3263BBB7AA65C99C96D4\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/MyLittleThought/Mine-Sweeper-master -BD:/MyLittleThought/Mine-Sweeper-master --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/MyLittleThought/Mine-Sweeper-master/MySweeper2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/MySweeper2.dir
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/ALL_BUILD.dir
+D:/MyLittleThought/Mine-Sweeper-master/CMakeFiles/ZERO_CHECK.dir

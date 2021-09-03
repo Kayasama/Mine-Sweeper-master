@@ -1,0 +1,19 @@
+{
+    "Mine-Sweeper": {
+        "title": "踩地雷ouo",
+        "gameover_msg": "你被炸死了！",
+        "win_msg": "你贏了！ ",
+        "info": "ZZB Game",
+        "debug": "false",
+        "fps": "30",
+        "side_up": "50",
+        "side_down": "30",
+        "side_left": "30",
+        "side_right": "30",
+        "line_width": "5",
+        "row": "10",
+        "column": "10",
+        "block_size": "32",
+        "total_bomb": "20"
+    }
+}
